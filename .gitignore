@@ -1,0 +1,6 @@
+.vscode
+mysql-data
+drupal-*
+
+!./**/README.md
+!./**/.git-keep
